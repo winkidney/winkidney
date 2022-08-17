@@ -10,7 +10,9 @@
 - 📫 Here is my countryard: https://wiki.slassgear.com
 - ⚡ Interested in: Metaloid, ARPG and CRPG games
 
-![](https://img.shields.io/badge/-Python-1D415E?style=flat-square&logo=Python&labelColor=3772A2&logoColor=FFDA4C)
-![](https://img.shields.io/badge/-Rust-A72145?style=flat-square&logo=Rust&labelColor=FFC832&logoColor=000)
-![](https://img.shields.io/badge/-JavaScript-e5cd0c?style=flat-square&logo=JavaScript&labelColor=f7df1e&logoColor=000)
+![Python](https://img.shields.io/badge/-Python-1D415E?style=flat-square&logo=Python&labelColor=3772A2&logoColor=FFDA4C)
+![Rust](https://img.shields.io/badge/-Rust-A72145?style=flat-square&logo=Rust&labelColor=FFC832&logoColor=000)
+![Javascript](https://img.shields.io/badge/-JavaScript-e5cd0c?style=flat-square&logo=JavaScript&labelColor=f7df1e&logoColor=000)
+![C](https://img.shields.io/badge/C%20language-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
+
 
