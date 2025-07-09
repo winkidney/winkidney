@@ -6,7 +6,7 @@
 
 - 🔭 I'm a problem solver who is just writing codes
 - 💬 Talk with me about ideas for makers, like artists/writers/muscians
-- 👯 Collect nice ideas with me: https://pin.37soloist.com
+- 👯 Collect nice ideas with me: https://pin.slassgear.com
 - 📫 Here is my countryard: https://wiki.slassgear.com
 - ⚡ Interested in: Metaloid, ARPG and CRPG games
 
